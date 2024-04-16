@@ -15,18 +15,15 @@ This is a simple chat application built using React.js. It allows users to send 
   
 # Installation
 - Clone the repository:
-bash
-git clone https://github.com/your-username/react-chat-app.git
+   git clone https://github.com/your-username/react-chat-app.git
 - Navigate to the project directory:
-bash
-- cd react-chat-app
+   cd react-chat-app
   
 # Install dependencies:
 bash
 - npm install
   
 # Start the development server:
-bash
 - npm start
 - Open your browser and visit http://localhost:3000 to use the chat app.
   
